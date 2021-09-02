@@ -1,4 +1,4 @@
-# toke
+# Toké
 Toké is a touchegg configuration GUI using MauiKit.
 
 
